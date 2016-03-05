@@ -28,7 +28,7 @@
   </project>
   <project path="android" remote="airom" revision="cm-13.0" name="AI-ROM/android" />
   <project path="frameworks/base" remote="airom" revision="cm-13.0" name="AI-ROM/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
-  <project path="frameworks/base" remote="airom" revision="cm-13.0" name="AI-ROM/android_packages_apps_Trebuchet" />
+  <project path="packages/apps/Trebuchet" remote="airom" revision="cm-13.0" name="AI-ROM/android_packages_apps_Trebuchet" />
   <project path="packages/apps/Dialer" remote="airom" revision="cm-13.0" name="AI-ROM/android_packages_apps_Dialer" groups="pdk-fs" />
   <project path="packages/apps/Settings" remote="airom" revision="cm-13.0" name="AI-ROM/android_packages_apps_Settings" groups="pdk-fs" />
   <project path="vendor/sm" remote="airom" revision="cm-13.0" name="AI-ROM/android_vendor_cm" />
