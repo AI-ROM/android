@@ -31,7 +31,7 @@
   <project path="packages/apps/Trebuchet" remote="airom" revision="cm-13.0" name="AI-ROM/android_packages_apps_Trebuchet" />
   <project path="packages/apps/Dialer" remote="airom" revision="cm-13.0" name="AI-ROM/android_packages_apps_Dialer" groups="pdk-fs" />
   <project path="packages/apps/Settings" remote="airom" revision="cm-13.0" name="AI-ROM/android_packages_apps_Settings" groups="pdk-fs" />
-  <project path="vendor/sm" remote="airom" revision="cm-13.0" name="AI-ROM/android_vendor_cm" />
+  <project path="vendor/cm" remote="airom" revision="cm-13.0" name="AI-ROM/android_vendor_cm" />
 <!-- END AIROM -->
 
 <!-- BEGIN CYANOGENMOD -->
